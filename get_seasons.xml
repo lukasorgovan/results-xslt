@@ -1,0 +1,78 @@
+<gsmrs version="2.0" sport="soccer" lang="fr" last_generated="2013-04-17 15:07:23">
+<method method_id="4" name="get_seasons">
+<parameter name="authorized" value="yes"/>
+<parameter name="coverage" value="no"/>
+<parameter name="id" value="1"/>
+<parameter name="lang" value="fr"/>
+<parameter name="type" value="area"/>
+</method>
+<competition competition_id="72" name="Coupe du Monde" teamtype="default" display_order="0" type="international" area_id="1" area_name="Monde" last_updated="2013-03-21 10:27:28" soccertype="default" format="International cup">
+<season season_id="6395" name="2014 Brazil" start_date="2012-08-11" end_date="2014-07-13" service_level="0" last_updated="2013-03-21 10:27:28"/>
+</competition>
+<competition competition_id="7" name="Liga BBVA" teamtype="default" display_order="10" type="club" area_id="176" area_name="Espagne" last_updated="2013-04-17 15:03:53" soccertype="default" format="Domestic league">
+<season season_id="7281" name="2012/2013" start_date="2012-08-18" end_date="2013-06-01" service_level="0" last_updated="2013-04-16 16:04:16"/>
+</competition>
+<competition competition_id="8" name="Premier League" teamtype="default" display_order="10" type="club" area_id="68" area_name="Angleterre" last_updated="2013-04-17 14:58:32" soccertype="default" format="Domestic league">
+<season season_id="7185" name="2012/2013" start_date="2012-08-18" end_date="2013-05-30" service_level="0" last_updated="2013-04-17 00:18:39"/>
+</competition>
+<competition competition_id="9" name="Bundesliga" teamtype="default" display_order="10" type="club" area_id="80" area_name="Allemagne" last_updated="2013-04-15 10:24:00" soccertype="default" format="Domestic league">
+<season season_id="6905" name="2012/2013" start_date="2012-08-24" end_date="2013-05-18" service_level="0" last_updated="2013-04-15 10:24:00"/>
+</competition>
+<competition competition_id="13" name="Serie A" teamtype="default" display_order="10" type="club" area_id="100" area_name="Italie" last_updated="2013-04-16 16:36:35" soccertype="default" format="Domestic league">
+<season season_id="7188" name="2012/2013" start_date="2012-08-25" end_date="2013-05-19" service_level="0" last_updated="2013-04-16 16:36:35"/>
+</competition>
+<competition competition_id="16" name="Ligue 1" teamtype="default" display_order="10" type="club" area_id="76" area_name="France" last_updated="2013-04-16 15:01:28" soccertype="default" format="Domestic league">
+<season season_id="7242" name="2012/2013" start_date="2012-08-10" end_date="2013-05-26" service_level="0" last_updated="2013-04-16 15:01:28"/>
+</competition>
+<competition competition_id="25" name="Championnat Européen" teamtype="default" display_order="10" type="international" area_id="7" area_name="Europe" last_updated="2013-01-28 16:06:43" soccertype="default" format="International cup">
+<season season_id="4943" name="2012 Pologne/Ukraine" start_date="2012-06-08" end_date="2012-07-02" service_level="1" last_updated="2012-08-31 12:42:13"/>
+</competition>
+<competition competition_id="224" name="Eliminatoires CM - Europe" teamtype="default" display_order="16" type="international" area_id="7" area_name="Europe" last_updated="2013-04-17 10:38:17" soccertype="default" format="International cup">
+<season season_id="6218" name="2014 Brazil" start_date="2012-06-06" end_date="2013-11-19" service_level="0" last_updated="2013-04-17 10:38:17"/>
+</competition>
+<competition competition_id="10" name="Ligue des champions UEFA" teamtype="default" display_order="20" type="club" area_id="7" area_name="Europe" last_updated="2013-04-12 15:09:23" soccertype="default" format="International cup">
+<season season_id="7238" name="2012/2013" start_date="2012-07-03" end_date="2013-05-25" service_level="0" last_updated="2013-04-12 15:09:23"/>
+</competition>
+<competition competition_id="17" name="Ligue 2" teamtype="default" display_order="20" type="club" area_id="76" area_name="France" last_updated="2013-04-15 23:46:47" soccertype="default" format="Domestic league">
+<season season_id="7213" name="2012/2013" start_date="2012-07-27" end_date="2013-05-24" service_level="0" last_updated="2013-04-15 23:46:47"/>
+</competition>
+<competition competition_id="18" name="UEFA Europa League" teamtype="default" display_order="30" type="club" area_id="7" area_name="Europe" last_updated="2013-04-12 12:49:44" soccertype="default" format="International cup">
+<season season_id="7135" name="2012/2013" start_date="2012-07-03" end_date="2013-05-15" service_level="0" last_updated="2013-04-12 12:49:44"/>
+</competition>
+<competition competition_id="57" name="National" teamtype="default" display_order="30" type="club" area_id="76" area_name="France" last_updated="2013-04-16 23:17:38" soccertype="default" format="Domestic league">
+<season season_id="6025" name="2011/2012" start_date="2011-08-05" end_date="2012-05-26" service_level="0" last_updated="2013-02-26 10:45:50"/>
+<season season_id="7296" name="2012/2013" start_date="2012-08-03" end_date="2013-05-24" service_level="0" last_updated="2013-04-16 23:17:38"/>
+</competition>
+<competition competition_id="211" name="Super Coupe de l'UEFA" teamtype="default" display_order="40" type="club" area_id="7" area_name="Europe" last_updated="2012-09-08 06:00:02" soccertype="default" format="International super cup">
+<season season_id="6940" name="2012/2013" start_date="2012-08-31" end_date="2012-08-31" service_level="0" last_updated="2012-09-03 16:27:19"/>
+</competition>
+<competition competition_id="241" name="Copa Libertadores" teamtype="default" display_order="50" type="club" area_id="5" area_name="Amérique du Sud" last_updated="2013-04-17 12:36:46" soccertype="default" format="International cup">
+<season season_id="7581" name="2013" start_date="2013-01-23" end_date="2013-07-05" service_level="0" last_updated="2013-04-17 12:36:46"/>
+</competition>
+<competition competition_id="93" name="FA Cup" teamtype="default" display_order="100" type="club" area_id="68" area_name="Angleterre" last_updated="2013-04-17 09:58:44" soccertype="default" format="Domestic cup">
+<season season_id="6127" name="2011/2012" start_date="2011-09-17" end_date="2012-05-05" service_level="0" last_updated="2013-02-04 11:21:52"/>
+<season season_id="7239" name="2012/2013" start_date="2012-08-10" end_date="2013-05-11" service_level="0" last_updated="2013-04-17 09:58:44"/>
+</competition>
+<competition competition_id="138" name="Coupe du Roi" teamtype="default" display_order="100" type="club" area_id="176" area_name="Espagne" last_updated="2013-03-23 03:05:46" soccertype="default" format="Domestic cup">
+<season season_id="6000" name="2011/2012" start_date="2011-08-31" end_date="2012-05-30" service_level="0" last_updated="2013-01-14 20:14:12"/>
+<season season_id="7274" name="2012/2013" start_date="2012-08-29" end_date="2013-05-30" service_level="0" last_updated="2013-03-23 03:05:46"/>
+</competition>
+<competition competition_id="336" name="Coupe féminine UEFA" teamtype="women" display_order="151" type="club" area_id="7" area_name="Europe" last_updated="2013-04-16 14:34:44" soccertype="women" format="International cup">
+<season season_id="6027" name="2011/2012" start_date="2011-08-11" end_date="2012-05-17" service_level="0" last_updated="2013-04-02 23:04:47"/>
+<season season_id="7180" name="2012/2013" start_date="2012-08-11" end_date="2013-05-23" service_level="0" last_updated="2013-04-16 14:34:44"/>
+</competition>
+<competition competition_id="135" name="Coppa Italia" teamtype="default" display_order="300" type="club" area_id="100" area_name="Italie" last_updated="2013-04-16 22:45:07" soccertype="default" format="Domestic cup">
+<season season_id="6159" name="2011/2012" start_date="2011-08-06" end_date="2012-05-23" service_level="0" last_updated="2012-09-25 11:58:06"/>
+<season season_id="7241" name="2012/2013" start_date="2012-08-04" end_date="2013-05-26" service_level="0" last_updated="2013-04-16 22:45:07"/>
+</competition>
+<competition competition_id="177" name="Coupe de France" teamtype="default" display_order="300" type="club" area_id="76" area_name="France" last_updated="2013-04-17 00:08:14" soccertype="default" format="Domestic cup">
+<season season_id="6955" name="2012/2013" start_date="2012-11-16" end_date="2013-06-01" service_level="0" last_updated="2013-04-17 00:08:14"/>
+</competition>
+<competition competition_id="105" name="Coupe de la Ligue" teamtype="default" display_order="310" type="club" area_id="76" area_name="France" last_updated="2013-04-16 15:02:19" soccertype="default" format="Domestic cup">
+<season season_id="6083" name="2011/2012" start_date="2011-07-22" end_date="2012-04-14" service_level="0" last_updated="2013-02-20 12:44:44"/>
+<season season_id="6951" name="2012/2013" start_date="2012-07-27" end_date="2013-04-20" service_level="0" last_updated="2013-04-16 15:02:19"/>
+</competition>
+<competition competition_id="430" name="Matchs Amicaux " teamtype="default" display_order="901" type="international" area_id="1" area_name="Monde" last_updated="2013-04-16 11:22:16" soccertype="default" format="International cup">
+<season season_id="7707" name="2013" start_date="2013-01-01" end_date="2013-12-31" service_level="0" last_updated="2013-04-16 11:14:45"/>
+</competition>
+</gsmrs>
